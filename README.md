@@ -34,5 +34,6 @@ _O conteúdo dos slides foi produzido por Maria Luiza Mondelli e está sob a lic
 * [Not so standard deviations](https://nssdeviations.com/)
 
 ### Para praticar SQL
+* [SQL Murder Mystery](https://mystery.knightlab.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [W3Schools](https://www.w3schools.com/sql/default.asp)
