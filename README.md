@@ -32,6 +32,7 @@ _O conteúdo dos slides foi produzido por Maria Luiza Mondelli e está sob a lic
 #### Podcasts
 * [Pizza de dados](https://pizzadedados.com/)
 * [Not so standard deviations](https://nssdeviations.com/)
+* [Storytelling with data](https://www.storytellingwithdata.com/): além de podcast, também possui livro, newsletter e outros materiais focados em análise e apresentação de dados
 
 ### Para praticar SQL
 * [SQL Murder Mystery](https://mystery.knightlab.com/)
